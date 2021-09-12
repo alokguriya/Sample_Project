@@ -1,0 +1,16 @@
+127.0.0.1 - - [29/Aug/2021:19:33:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:19:34:06 +0530] "GET /Online_Shopping_Project/ HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:19:35:10 +0530] "GET /Online_Shopping_Project/ HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:19:35:52 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:03:24 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:03:40 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:04:06 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:05:07 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:05:24 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:07:22 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:08:16 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:08:21 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:09:25 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:09:27 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6
+127.0.0.1 - - [29/Aug/2021:20:10:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Aug/2021:20:10:16 +0530] "GET /Online_Shopping_Project/table/create_table.jsp HTTP/1.1" 200 6

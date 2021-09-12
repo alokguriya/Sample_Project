@@ -1,0 +1,6 @@
+127.0.0.1 - - [12/Aug/2021:12:14:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:12:15:10 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1377
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:12:15:10 +0530] "GET /Online_Shopping_Project/css/signup-style.css HTTP/1.1" 200 1810
+127.0.0.1 - - [12/Aug/2021:17:00:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:01:03 +0530] "GET /Online_Shopping_Project/home.jsp HTTP/1.1" 200 1291
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:01:15 +0530] "GET /Online_Shopping_Project/ HTTP/1.1" 404 779
